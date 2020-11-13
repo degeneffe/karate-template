@@ -1,5 +1,4 @@
 function fn() {
-    karate.log('&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&');
     karate.configure('connectTimeout', 120000);
     karate.configure('readTimeout', 120000);
     var config = {
