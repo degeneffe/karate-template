@@ -1,5 +1,5 @@
 @Operation
-Feature: Operation
+Feature: Operation mocked
   Text regarding feature bla bla bla
 
   Background:
